@@ -1,0 +1,20 @@
+.title_drinks {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 33px;
+  text-align: left;
+  margin-bottom: 40px;
+}
+
+.button33 {
+  background: #f3f3f7;
+  height: 40px;
+  width: 120px;
+  left: 110px;
+  top: 347px;
+  border-radius: 1000px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+}

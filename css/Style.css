@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  color: #000;
+}
+
+.button {
+  height: 40px;
+  width: 120px;
+  border-radius: 1000px;
+  font-family: "Nunito";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+  border: none;
+  background: #fff0e6;
+  color: #d15700;
+}
+
+.container {
+  width: 1060px;
+  margin: 0 auto;
+  box-sizing: content-box;
+}
+.button2 {
+  background: #f96900;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  height: 40px;
+  width: 120px;
+  border-radius: 1000px;
+  line-height: 22px;
+  text-align: center;
+  font-family: "Nunito";
+  border: none;
+}
+.button3 {
+  height: 40px;
+  width: 104px;
+  left: 956px;
+  top: 76px;
+  border-radius: 1000px;
+  color: #fff0e6;
+  background: #f96900;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+  border: none;
+}
+.section1 {
+  margin-top: 70px;
+}
+.footers {
+  margin-top: 134px;
+}

@@ -1,0 +1,158 @@
+.title {
+  font-family: "Nunito";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 33px;
+  text-align: left;
+  color: #000000;
+  width: 242px;
+  height: 33px;
+}
+
+/* margin-top: 70px;
+  padding-bottom: 30px;
+} */
+
+.slider__img {
+  margin-bottom: 70px;
+}
+
+.slider__img img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0px 5px 20px rgba(115, 121, 140, 0.15);
+}
+
+.text__new {
+  font-family: "Nunito";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 33px;
+  text-align: left;
+  padding-bottom: 30px;
+}
+.row__menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  /* box-shadow: 0px 6px 25px rgba(6, 5, 50, 0.05); */
+}
+.item {
+  display: flex;
+  height: 104px;
+  width: 250px;
+  align-items: center;
+  gap: 22px;
+  /* background-color: blue; */
+  border: white 0 solid;
+  box-shadow: 0px 6px 25px rgba(6, 5, 50, 0.05);
+  border-radius: 10px;
+}
+
+.item span {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 22px;
+  font-family: "Nunito";
+
+  /* box-sizing: content-box; */
+}
+.item p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  font-family: "Nunito";
+
+  /* box-sizing: content-box; */
+}
+
+.item img {
+  padding-left: 15px;
+}
+
+.pizza_block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pizza_colon {
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 370px;
+}
+
+.button1 {
+  height: 40px;
+  width: 120px;
+  border-radius: 1000px;
+  background-color: #fff0e6;
+
+  display: inline;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #d15700;
+  border: none;
+
+  font-family: "Nunito";
+}
+
+.button0 {
+  height: 40px;
+  width: 120px;
+  border-radius: 1000px;
+  background-color: #f96900;
+  display: inline;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+  font-family: "Nunito";
+}
+
+.pazza_p {
+  display: inline;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  font-family: "Nunito";
+}
+
+.pizza_span {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  font-family: "Nunito";
+}
+
+.flex_price {
+  display: flex;
+  column-gap: 46px;
+  align-items: center;
+}
+
+.money {
+  font-size: 16px;
+  font-family: "Nunito";
+  font-weight: 600;
+  line-height: 22px;
+  color: #000000;
+}
+
+.img_1 {
+  padding-left: 15px;
+}

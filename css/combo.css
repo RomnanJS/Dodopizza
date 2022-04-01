@@ -1,0 +1,67 @@
+.title1 {
+  margin-bottom: 40px;
+  font-size: 24px;
+
+  font-weight: 700;
+  line-height: 33px;
+
+  text-align: left;
+}
+
+.wrapper1 {
+  display: flex;
+  column-gap: 20px;
+
+  flex-wrap: wrap;
+}
+
+.pizza_card1 {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: auto;
+}
+
+.pizza_card1:nth-child(-n + 4) {
+  margin-bottom: 60px;
+}
+
+.pizza_img1 {
+  /* max-width: 220px; */
+  text-align: center;
+  /* max-height: 220px; */
+}
+
+.pizza_img1 img {
+  padding: 0 15px;
+  vertical-align: top;
+}
+.pizza_desc-caption1 {
+  margin: 5px 0 10px 0;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  color: #000000;
+  font-family: "Nunito";
+}
+
+.pizza_text1 {
+  margin-bottom: 30px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: left;
+  color: #73798c;
+}
+
+.pizza_prise1 {
+  margin-top: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.pizza_money1 {
+  margin-right: 67px;
+}
