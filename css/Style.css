@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  width: 1060px;
+  max-width: 1060px;
   margin: 0 auto;
   box-sizing: content-box;
 }
